@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Jogo de Dados</string>
+    <string name="jogar">Jogar</string>
+    <string-array name="tipos_dados">
+        <item>D4</item>
+        <item>D6</item>
+        <item>D8</item>
+        <item>D10</item>
+        <item>D12</item>
+        <item>D20</item>
+        <item>D100</item>
+    </string-array>
+</resources>
